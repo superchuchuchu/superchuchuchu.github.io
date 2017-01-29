@@ -1,0 +1,14 @@
+
+	h1 {color:grey; font-family: helvetica}
+	h2 {color:lightgrey; font-family: helvetica}
+	.blue-text{
+		colour:pink-text;}
+	body{background:white;}
+
+	.center-image {
+		text-align: center;
+	}
+
+	.center-image img {
+		max-width: 100%;
+	}

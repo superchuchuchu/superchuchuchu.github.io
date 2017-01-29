@@ -1,0 +1,60 @@
+/* frontpage.c */
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+strong {
+  color: #222324;
+}
+.pinktext{color:white;}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("https://scontent-lht6-1.xx.fbcdn.net/v/t35.0-12/16443040_1250031118399332_1190669052_o.jpg?oh=56dd2da19a129a120fce44bfa7aaede9&oe=589103F4&dl=1, https://www.facebook.com/");
+  background-size: cover;
+  color: white;
+}
